@@ -3,7 +3,7 @@
 
 
 
-![Notion Banner (3)](images/Untitled design.png)
+![Alt text](images/Untitled design.png)
 
 
 
