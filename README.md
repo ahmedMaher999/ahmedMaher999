@@ -6,65 +6,35 @@
 
 
 
+- 🌱 I’m an Ambassador for CS50x Program @ ITI, helping students learn core Computer Science fundamentals.
 
-- 🔭 I’m currently working on `Infrastructure as a code and Cloud Computing.`
+- 🔭 I'm currently diving deep into the world of `DevOps` and learning how to build, deploy, and automate cool stuff!
 
-- 🌱 I’m currently learning `Containerization and Orchestration.`
+- 🤝 I’m looking for `Mastering Kubernetes` and `Deep diving into monitoring & observability`
 
-- 🤝 I’m looking for `Remote Developer relations / Developer Advocate`
-
-- 📝 I love to document my learnings in the form of `blogs and twitter threads.`
-
-- ⚡ Fun fact : **I love to play the *Ukulele.***
-
-P.S. I enjoy infusing humor into my talks, creating a light-hearted atmosphere while breaking down complex concepts for easier understanding. (Though, I'll admit, sometimes my jokes can be a bit lame!)
+- 🙌 I’m passionate about `volunteering and business development`, contributing to tech communities and fostering collaboration.
 
 
 
 <h3 align="center">Volunteering and Community Experiences:</h3>
 <p align="center">
   
-- **GitHub Campus Expert.**
+- **Business Development and Sponsorship Lead at IEEE ZSB (2023 – 2024)**
+  - Secured sponsorships and partnerships to support the `Mutex event`, one of the key technical events organized by IEEE ZSB.
+  - Represented the team as Business Development in the `Young Leaders Forum (YLF) competition`, where we successfully reached the finals.
   
-- **LiFT'22 Scholar.**
-  
-- Invited to record a podcast on **What is Keploy?** Check it out [here](https://youtu.be/w9Wk0PgMUmc) with [demo](https://www.youtube.com/watch?v=0stKYDXYM94).
-
-- In late October, I represented [Hoppscotch](https://github.com/hoppscotch/hoppscotch) at Experience Labs during IndiaFOSS 3.0 in Bengaluru. IndiaFOSS is a conference initiated by FOSSUnited to support and bring awareness to new and existing open-source projects. I explained what Hoppscotch is and troubleshoot the queries of hundreds of attendees who visited our booth.
-
-- [Delivered a talk on Docker](https://www.linkedin.com/feed/update/urn:li:activity:7050766875982520320) where I covered about Monolith architecture, Microservices, Containerization, VMs, V-profile, Docker, Basic Comands and live demo on Docker by building an app and publishing the image at DockerHub.
-
-- I initiated the idea of introducing existing open-source projects to the audience of Chhattisgarh to foster the open-source ecosystem here. 140 audience participated in the conference and we had 10 speakers who advocated the projects they have either maintained or contributed to such as [Keploy](https://github.com/keploy/keploy), [Directus](https://github.com/directus/directus), [Calyxos](https://github.com/CalyxOS/calyxos), [Tensorflow](https://github.com/tensorflow/tensorflow), etc.
-
-- Facilitated 336 students in **#30DaysofGoogleCloud** campaign and conducted sessions in [youtube](https://youtu.be/bmtzwh6JuPQ) and [discord](https://discord.com/invite/MEu92PcNnP). 
-  
-- **Beta Microsoft Learn Student Ambassador.**
-  
-
-  
+- **Zagazig Engineering Student Activity (Zag Eng Student Activity) (2023 – 2024)**
+  - `Head of CS50x Track` – Facilitated student learning by creating essential reference materials, videos, and live sessions.
+  - `Technical Member (Arduino Track)` – Introduced Arduino basics, supported hands-on workshops, and strengthened teamwork and presentation skills.
 
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-<a href="https://github.com/SanskritiHarmukh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sanskriti-harmukh" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Senzkriti" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/sanskritiharmukh" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%232962FF.svg?&style=for-the-badge&logo=Dev&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
 
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="52" alt="firebase logo"  />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" width="52" alt="Jenkins logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"" height="40" width="52" alt="K8s logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
@@ -112,21 +82,20 @@ P.S. I enjoy infusing humor into my talks, creating a light-hearted atmosphere w
 
 
 
-<h1 align="center">Hey there👋, I'm Ahmed Maher </h1>
+
 
 <img src="https://github.com/ahmedMaher999/ahmedMaher999/blob/main/404679692-8c3295f2-bf6e-4a0b-9114-29f14d9b8281.gif?raw=true" style="width: 100%;"/>
 
 
-🎓 I'm currently diving deep into the world of **DevOps** and learning how to build, deploy, and automate cool stuff!  
-💻 I have a strong foundation in computer science thanks to the amazing **CS50x** course by Harvard.  
-🚀 I'm passionate about learning new tools, solving real-world problems, and working on impactful projects.
 
-### 🔧 Tech I'm currently learning:
-- Docker & Containers
+### 🔧 My main Tech skills:
+- Docker & Kubernetes
 - CI/CD with Jenkins & GitHub Actions
+- Microservice and Message Queuing (RabbitMQ)
 - Linux & Shell Scripting
-- Infrastructure as Code (Ansible, Terraform)
-- Cloud Fundamentals (AWS basics)
+- Cloud Fundamentals (AWS, Azure)
+- Infrastructure as Code 
+
 
 ### 📚 Courses I've completed:
 - [CS50x – Introduction to Computer Science](https://cs50.harvard.edu/x)
@@ -136,11 +105,21 @@ P.S. I enjoy infusing humor into my talks, creating a light-hearted atmosphere w
 - Deep diving into monitoring & observability
 - Working on open-source DevOps projects
 
-### 📫 How to reach me:
-- LinkedIn: [Your LinkedIn profile]
-- Email: [your.email@example.com]
-- GitHub: [your GitHub profile link]
-
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+<a href="https://github.com/SanskritiHarmukh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/sanskriti-harmukh" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Senzkriti" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/sanskritiharmukh" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%232962FF.svg?&style=for-the-badge&logo=Dev&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>  
+</div>  
 ---
 
 > 💡 "Automation is good, so long as you know exactly what you want to automate." – Elan Musk (sort of 😅)
