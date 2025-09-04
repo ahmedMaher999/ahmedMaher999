@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="40" width="52" alt="prometheus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="52"/> 
   <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" height="40" width="52" alt="vagrant logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="40" width="52" alt="ansible logo"  />
